@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rei-kaizen
 - 👀 I’m interested in programming and computer engineering
 - 🌱 I’m currently learning python and such..
-- 💞️ I’m looking to collaborate on my studies
+- 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me ... just hmu
 
 <!---
