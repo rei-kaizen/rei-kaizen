@@ -86,5 +86,10 @@
   
 </details>
 
-</br>
+</br></br>
 	
+## 🐍 Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/rei-kaizen/rei-kaizen/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>	
