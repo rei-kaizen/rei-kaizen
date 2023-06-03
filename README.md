@@ -13,7 +13,7 @@
 
 - :school: I am a `Freshman` at [PUP](https://www.pup.edu.ph/).
 - :technologist: I'm all about letting machines do the `boring stuff`.
-- :student: I’m currently learning `Computer Engineering`, `IT Automation` and `IT Support`.
+- :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: A constant seeker of `new challenges` and `opportunities`.
 - :thinking: I’m always open for `collaboration`, `suggestions` and `feedbacks`.
 - :boom: Feel free to reach out to me at `reikaizen1982@gmail.com`.
