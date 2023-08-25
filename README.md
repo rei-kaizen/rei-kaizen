@@ -75,10 +75,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-kaizen&theme=tokyonight_duo" alt="rei-kaizen" /></p>
 
 
-</br></br>
-	
-## 🐍 Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/rei-kaizen/rei-kaizen/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>	
+</br>
