@@ -11,7 +11,7 @@
 
 <br><br>
 
-- :school: I am a `Freshman` at [PUP](https://www.pup.edu.ph/).
+- :school: I am a `Sophomore` at [PUP](https://www.pup.edu.ph/).
 - :technologist: I'm all about letting machines do the `boring stuff`.
 - :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: A constant seeker of `new challenges` and `opportunities`.
@@ -29,7 +29,8 @@
 </p>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Languages and Tools
+## <picture>
+ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Languages and Tools
 
 <p align="center"> 
    &emsp; 
@@ -42,7 +43,7 @@
   </a> 
   &emsp;
   <a href="https://www.scala-lang.org/" target="_blank"> 
-    <img alt="Scala" src="https://img.shields.io/badge/scala-%23EA4335.svg?style=plastic&logo=scala&logoColor=white">
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-%23EA4335.svg?style=plastic&logo=scala&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -51,7 +52,7 @@
    &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
@@ -68,23 +69,11 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Streak Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-  
----
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-kaizen&theme=tokyonight_duo" alt="rei-kaizen" /></p>
 
-</details>
-  
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rei-kaizen&theme=github	)](https://github.com/rei-kaizen/github-readme-activity-graph)
-  
-</details>
 
 </br></br>
 	
