@@ -16,7 +16,6 @@
 - :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: A constant seeker of `new challenges` and `opportunities`.
 - :thinking: I’m always open for `collaboration`, `suggestions` and `feedbacks`.
-- :boom: Feel free to reach out to me at `reikaizen1982@gmail.com`.
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Connect with me
