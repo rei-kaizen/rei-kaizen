@@ -11,7 +11,7 @@
 
 <br><br>
 
-- :school: I am a `Sophomore` at [PUP](https://www.pup.edu.ph/).
+- :school: I am a `Junior` at [PUP](https://www.pup.edu.ph/).
 - :technologist: I'm all about letting machines do the `boring stuff`.
 - :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: A constant seeker of `new challenges` and `opportunities`.
